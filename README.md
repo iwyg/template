@@ -1,5 +1,7 @@
 # Templating library
 
+This repository is deprecated and unmaintained, please use [Lucid\Template](https://github.com/lucidphp/template) instead.
+
 ![Build Status](https://img.shields.io/travis/iwyg/template.svg?style=flat-square)
 ![Coverage](https://img.shields.io/coveralls/iwyg/template.svg?style=flat-square)
 
